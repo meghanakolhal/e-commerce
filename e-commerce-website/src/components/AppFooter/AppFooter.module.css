@@ -1,0 +1,14 @@
+.container{
+    /* border: 2px solid rgb(186, 179, 179); */
+    background:rgb(228, 233, 239) ;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    color: #1c4670;
+        padding-top: 1em;
+        cursor: pointer;
+
+}
